@@ -5,10 +5,21 @@
 This repository houses the complete deliverables for the **Feedback Analysis Dashboard and Report Creation** mini-project, where I analyzed weekly feedback data from a data science fellowship to track fellow performance, engagement, and reflections. Using Excel for data cleaning and Monday.com for dashboard creation, I built an interactive tool to visualize key metrics and generate actionable recommendations to enhance the program.  
 
 
-## Repo Contents  
-- **Cleaned Excel Sheet**: Preprocessed data (free of errors, consistent formatting) ready for dashboard integration.  
-- **Monday.com Dashboard Export (PDF)**: An interactive dashboard featuring visualizations like gender distribution, educational backgrounds, feedback ratings, and form submission trends.  
-- **Feedback Analysis Report (PDF)**: A 6-page report summarizing insights (e.g., 100% of fellows found daily learning helpful, a 29% drop in form submissions over two days) and recommendations (e.g., diversifying recruitment, boosting collaboration).  
+## Folder Structure  
+- **`data/`**: Cleaned Excel sheet used to build the dashboard.  
+- **`dashboard/`**: Interactive Monday.com dashboard exported as a PDF.  
+- **`reports/`**: Final 6-page report summarizing insights and recommendations.  
+
+## Key Files  
+- `cleaned_feedback_data.xlsx`: Preprocessed data (error-free, formatted).  
+- `DS Fellowship 1 Feedback Dashboard.pdf`: Visual dashboard for tracking fellow engagement.  
+- `DS Fellowship 1 Feedback Dashboard Report.pdf`: Actionable insights from feedback data.  
+
+## How to Use  
+1. Open the report (`reports/DS Fellowship 1 Feedback Dashboard Report.pdf`) for full analysis.  
+2. Explore the dashboard (`dashboard/DS Fellowship 1 Feedback Dashboard.pdf`) for interactive visuals.  
+3. Reference the cleaned data (`data/cleaned_feedback_data.xlsx`) for transparency.  
+
 
 
 ## Key Highlights  
